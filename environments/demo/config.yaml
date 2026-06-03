@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=../schema.json
 # Declarative environment configuration — demo for Postgres CDC
-# triggered by nifihub CD pipeline
+# managed by nifihub CD pipeline
 account:
   name: demo
   github_environment: demo
