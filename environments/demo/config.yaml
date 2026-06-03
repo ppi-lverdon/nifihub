@@ -1,5 +1,6 @@
 # yaml-language-server: $schema=../schema.json
 # Declarative environment configuration — demo for Postgres CDC
+# re-trigger CD pipeline
 account:
   name: demo
   github_environment: demo
